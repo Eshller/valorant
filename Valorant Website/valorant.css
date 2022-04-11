@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Courgette&display=swap');
+
+*{
+    padding: 0;
+    margin: 0;
+    
+}
+
+.containers{
+    padding:0;
+    margin: 0;
+    width: 100vw;
+    height: 100vh;
+    background: url(https://media.giphy.com/media/Bz0gvkv3cVlvHyzFc7/giphy.gif) ;
+    background-size: cover;
+}
+.center{
+    display: flex;
+   justify-content: center;
+    align-items: center;
+    padding: 10px;
+    /* text-align: center; */
+    /* width: 100%;
+    height: 100%; */
+    /* border: 1px solid black; */
+}
+.count{
+    padding-left: 20px;
+
+}
+.content{
+    color: rgb(240, 243, 75);
+    background: url(https://media.giphy.com/media/ocMwQede2HxN4bMCst/giphy.gif) no-repeat ;
+    background-size: cover;
+    
+}
+.list{
+    font-family: 'Pacifico', cursive;
+    padding: 10px;
+}
